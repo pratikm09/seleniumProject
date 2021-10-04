@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test_suite">
+	<test name="Elements SubTab check">
+		<classes>
+			<class name="com.first_project.testcases.TC_Elements" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="BookStore Login check">
+		<classes>
+			<class name="com.first_project.testcases.TC_BookStoreLogin" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="BookStore Summary page check">
+		<classes>
+			<class name="com.first_project.testcases.TC_BookStoreSummary" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->  

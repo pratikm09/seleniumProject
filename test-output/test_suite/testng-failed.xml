@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [test_suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Elements SubTab check(failed)">
+    <classes>
+      <class name="com.first_project.testcases.TC_Elements">
+        <methods>
+          <include name="VerifyRadioButtonFunctionality"/>
+          <include name="demo1"/>
+          <include name="quit"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.first_project.testcases.TC_Elements -->
+    </classes>
+  </test> <!-- Elements SubTab check(failed) -->
+  <test thread-count="5" name="BookStore Login check(failed)">
+    <classes>
+      <class name="com.first_project.testcases.TC_BookStoreLogin">
+        <methods>
+          <include name="demo1"/>
+          <include name="quit"/>
+          <include name="verifyUserRegistration"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.first_project.testcases.TC_BookStoreLogin -->
+    </classes>
+  </test> <!-- BookStore Login check(failed) -->
+</suite> <!-- Failed suite [test_suite] -->

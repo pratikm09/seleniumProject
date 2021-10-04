@@ -1,0 +1,244 @@
+2021-09-30 08:51:00.426 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - clicked on book store application Tab
+2021-09-30 08:52:15.567 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - clicked on book store application Tab
+2021-09-30 08:52:15.647 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - clicked on book store sub Tab
+2021-09-30 08:52:15.843 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - 
+2021-09-30 08:52:15.864 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Git Pocket Guide
+Richard E. Silverman
+O'Reilly Media
+2021-09-30 08:52:15.883 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Learning JavaScript Design Patterns
+Addy Osmani
+O'Reilly Media
+2021-09-30 08:52:15.901 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Designing Evolvable Web APIs with ASP.NET
+Glenn Block et al.
+O'Reilly Media
+2021-09-30 08:52:15.920 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Speaking JavaScript
+Axel Rauschmayer
+O'Reilly Media
+2021-09-30 08:52:15.941 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##You Don't Know JS
+Kyle Simpson
+O'Reilly Media
+2021-09-30 08:52:15.969 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Programming JavaScript Applications
+Eric Elliott
+O'Reilly Media
+2021-09-30 08:52:15.990 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Eloquent JavaScript, Second Edition
+Marijn Haverbeke
+No Starch Press
+2021-09-30 08:52:16.008 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Understanding ECMAScript 6
+Nicholas C. Zakas
+No Starch Press
+2021-09-30 08:52:16.030 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##    
+2021-09-30 08:52:16.048 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##    
+2021-09-30 08:52:16.048 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - All rows are displayed..
+2021-09-30 09:52:54.891 INFO [main] [com.first_project.testcases.TC_Elements] - Clicked On Elements Tab..
+2021-09-30 09:52:55.018 INFO [main] [com.first_project.testcases.TC_Elements] - Clicked on UploadAndDownload Tab
+2021-09-30 09:53:24.703 INFO [main] [com.first_project.testcases.TC_BookStoreLogin] - Entered Login Password on login button...
+2021-09-30 09:53:24.776 INFO [main] [com.first_project.testcases.TC_BookStoreLogin] - Clicked on login button...
+2021-09-30 09:53:41.175 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - clicked on book store application Tab
+2021-09-30 09:53:41.250 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - clicked on book store sub Tab
+2021-09-30 09:53:41.440 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - 
+2021-09-30 09:53:41.458 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Git Pocket Guide
+Richard E. Silverman
+O'Reilly Media
+2021-09-30 09:53:41.478 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Learning JavaScript Design Patterns
+Addy Osmani
+O'Reilly Media
+2021-09-30 09:53:41.506 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Designing Evolvable Web APIs with ASP.NET
+Glenn Block et al.
+O'Reilly Media
+2021-09-30 09:53:41.528 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Speaking JavaScript
+Axel Rauschmayer
+O'Reilly Media
+2021-09-30 09:53:41.555 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##You Don't Know JS
+Kyle Simpson
+O'Reilly Media
+2021-09-30 09:53:41.579 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Programming JavaScript Applications
+Eric Elliott
+O'Reilly Media
+2021-09-30 09:53:41.597 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Eloquent JavaScript, Second Edition
+Marijn Haverbeke
+No Starch Press
+2021-09-30 09:53:41.615 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Understanding ECMAScript 6
+Nicholas C. Zakas
+No Starch Press
+2021-09-30 09:53:41.635 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##    
+2021-09-30 09:53:41.655 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##    
+2021-09-30 09:53:41.655 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - All rows are displayed..
+2021-09-30 09:54:40.409 INFO [main] [com.first_project.testcases.TC_Elements] - Clicked On Elements Tab..
+2021-09-30 09:55:08.293 INFO [main] [com.first_project.testcases.TC_BookStoreLogin] - Entered Login Password on login button...
+2021-09-30 09:55:08.352 INFO [main] [com.first_project.testcases.TC_BookStoreLogin] - Clicked on login button...
+2021-09-30 09:55:25.686 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - clicked on book store application Tab
+2021-09-30 09:55:25.755 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - clicked on book store sub Tab
+2021-09-30 09:55:25.991 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - 
+2021-09-30 09:55:26.015 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Git Pocket Guide
+Richard E. Silverman
+O'Reilly Media
+2021-09-30 09:55:26.040 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Learning JavaScript Design Patterns
+Addy Osmani
+O'Reilly Media
+2021-09-30 09:55:26.058 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Designing Evolvable Web APIs with ASP.NET
+Glenn Block et al.
+O'Reilly Media
+2021-09-30 09:55:26.077 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Speaking JavaScript
+Axel Rauschmayer
+O'Reilly Media
+2021-09-30 09:55:26.096 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##You Don't Know JS
+Kyle Simpson
+O'Reilly Media
+2021-09-30 09:55:26.115 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Programming JavaScript Applications
+Eric Elliott
+O'Reilly Media
+2021-09-30 09:55:26.132 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Eloquent JavaScript, Second Edition
+Marijn Haverbeke
+No Starch Press
+2021-09-30 09:55:26.153 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Understanding ECMAScript 6
+Nicholas C. Zakas
+No Starch Press
+2021-09-30 09:55:26.173 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##    
+2021-09-30 09:55:26.193 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##    
+2021-09-30 09:55:26.193 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - All rows are displayed..
+2021-09-30 09:58:13.897 INFO [main] [com.first_project.testcases.TC_Elements] - Clicked On Elements Tab..
+2021-09-30 09:58:17.282 INFO [main] [com.first_project.testcases.TC_Elements] - Clicked On Elements Tab..
+2021-09-30 09:58:17.499 INFO [main] [com.first_project.testcases.TC_Elements] - clicked on checkBox tab
+2021-09-30 09:58:17.636 INFO [main] [com.first_project.testcases.TC_Elements] - home option has been checked
+2021-09-30 09:58:22.655 INFO [main] [com.first_project.testcases.TC_Elements] - Home Option has been expanded
+2021-09-30 09:58:26.819 INFO [main] [com.first_project.testcases.TC_Elements] - Clicked on Plus Icon to Expand Home Option
+2021-09-30 09:58:30.960 INFO [main] [com.first_project.testcases.TC_Elements] - Clicked on Minus Icon to Collapse Home Option Tree
+2021-09-30 09:58:39.367 INFO [main] [com.first_project.testcases.TC_Elements] - Clicked On Elements Tab..
+2021-09-30 09:58:39.515 INFO [main] [com.first_project.testcases.TC_Elements] - Radio Button Tab is selected
+2021-09-30 09:58:39.680 INFO [main] [com.first_project.testcases.TC_Elements] - Yes Option has been selected
+2021-09-30 09:58:39.734 INFO [main] [com.first_project.testcases.TC_Elements] - Got the selected Radio Button Text: ## You have selected Yes
+2021-09-30 09:58:52.708 INFO [main] [com.first_project.testcases.TC_BookStoreLogin] - Entered Login Password on login button...
+2021-09-30 09:58:52.797 INFO [main] [com.first_project.testcases.TC_BookStoreLogin] - Clicked on login button...
+2021-09-30 09:59:09.818 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - clicked on book store application Tab
+2021-09-30 09:59:09.892 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - clicked on book store sub Tab
+2021-09-30 09:59:10.051 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - 
+2021-09-30 09:59:10.072 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Git Pocket Guide
+Richard E. Silverman
+O'Reilly Media
+2021-09-30 09:59:10.093 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Learning JavaScript Design Patterns
+Addy Osmani
+O'Reilly Media
+2021-09-30 09:59:10.122 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Designing Evolvable Web APIs with ASP.NET
+Glenn Block et al.
+O'Reilly Media
+2021-09-30 09:59:10.140 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Speaking JavaScript
+Axel Rauschmayer
+O'Reilly Media
+2021-09-30 09:59:10.161 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##You Don't Know JS
+Kyle Simpson
+O'Reilly Media
+2021-09-30 09:59:10.184 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Programming JavaScript Applications
+Eric Elliott
+O'Reilly Media
+2021-09-30 09:59:10.202 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Eloquent JavaScript, Second Edition
+Marijn Haverbeke
+No Starch Press
+2021-09-30 09:59:10.222 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Understanding ECMAScript 6
+Nicholas C. Zakas
+No Starch Press
+2021-09-30 09:59:10.242 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##    
+2021-09-30 09:59:10.262 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##    
+2021-09-30 09:59:10.262 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - All rows are displayed..
+2021-09-30 10:11:23.405 INFO [main] [com.first_project.testcases.TC_Elements] - Clicked On Elements Tab..
+2021-09-30 10:11:23.527 INFO [main] [com.first_project.testcases.TC_Elements] - Clicked On Textbox Tab..
+2021-09-30 10:11:23.652 ERROR [main] [com.first_project.testcases.TC_Elements] - Entered UserName..
+2021-09-30 10:11:23.766 INFO [main] [com.first_project.testcases.TC_Elements] - Entered an email
+2021-09-30 10:11:23.924 INFO [main] [com.first_project.testcases.TC_Elements] - Entered Current Address
+2021-09-30 10:11:24.085 INFO [main] [com.first_project.testcases.TC_Elements] - Entered Permanent Address
+2021-09-30 10:11:24.233 INFO [main] [com.first_project.testcases.TC_Elements] - Clicked on Submit button
+2021-09-30 10:20:55.335 INFO [main] [com.first_project.testcases.TC_Elements] - Clicked On Elements Tab..
+2021-09-30 10:20:55.518 INFO [main] [com.first_project.testcases.TC_Elements] - clicked on checkBox tab
+2021-09-30 10:20:55.674 INFO [main] [com.first_project.testcases.TC_Elements] - home option has been checked
+2021-09-30 10:35:26.131 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - clicked on book store application Tab
+2021-09-30 10:35:26.206 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - clicked on book store sub Tab
+2021-09-30 10:35:26.368 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - 
+2021-09-30 10:35:26.387 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Git Pocket Guide
+Richard E. Silverman
+O'Reilly Media
+2021-09-30 10:35:26.406 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Learning JavaScript Design Patterns
+Addy Osmani
+O'Reilly Media
+2021-09-30 10:35:26.423 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Designing Evolvable Web APIs with ASP.NET
+Glenn Block et al.
+O'Reilly Media
+2021-09-30 10:35:26.441 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Speaking JavaScript
+Axel Rauschmayer
+O'Reilly Media
+2021-09-30 10:35:26.464 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##You Don't Know JS
+Kyle Simpson
+O'Reilly Media
+2021-09-30 10:35:26.483 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Programming JavaScript Applications
+Eric Elliott
+O'Reilly Media
+2021-09-30 10:35:26.507 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Eloquent JavaScript, Second Edition
+Marijn Haverbeke
+No Starch Press
+2021-09-30 10:35:26.537 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Understanding ECMAScript 6
+Nicholas C. Zakas
+No Starch Press
+2021-09-30 10:35:26.559 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##    
+2021-09-30 10:35:26.579 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##    
+2021-09-30 10:35:26.580 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - All rows are displayed..
+2021-09-30 10:38:39.510 INFO [main] [com.first_project.testcases.TC_AlertFrameAndWindows] - Clicked alertFrameWindows Tab..
+2021-09-30 10:38:39.644 INFO [main] [com.first_project.testcases.TC_AlertFrameAndWindows] - Clicked Alert Tab
+2021-09-30 10:39:44.580 INFO [main] [com.first_project.testcases.TC_AlertFrameAndWindows] - Clicked alertFrameWindows Tab..
+2021-09-30 10:39:44.719 INFO [main] [com.first_project.testcases.TC_AlertFrameAndWindows] - Clicked Alert Tab
+2021-09-30 10:39:44.827 INFO [main] [com.first_project.testcases.TC_AlertFrameAndWindows] - perfromed accept event on alert
+2021-09-30 12:13:49.569 INFO [main] [com.first_project.testcases.TC_BookStoreLogin] - Entered Login Password on login button...
+2021-09-30 12:13:49.626 INFO [main] [com.first_project.testcases.TC_BookStoreLogin] - Clicked on login button...
+2021-09-30 13:31:13.086 INFO [main] [com.first_project.testcases.TC_BookStoreLogin] - Entered Login Password on login button...
+2021-09-30 13:31:13.152 INFO [main] [com.first_project.testcases.TC_BookStoreLogin] - Clicked on login button...
+2021-09-30 14:34:31.414 INFO [main] [com.first_project.testcases.TC_AlertFrameAndWindows] - Clicked alertFrameWindows Tab..
+2021-09-30 14:34:31.531 INFO [main] [com.first_project.testcases.TC_AlertFrameAndWindows] - Clicked Alert Tab
+2021-09-30 14:34:31.661 INFO [main] [com.first_project.testcases.TC_AlertFrameAndWindows] - perfromed accept event on alert
+2021-09-30 14:40:44.572 INFO [main] [com.first_project.testcases.TC_BookStoreLogin] - Entered Login Password on login button...
+2021-09-30 14:40:44.635 INFO [main] [com.first_project.testcases.TC_BookStoreLogin] - Clicked on login button...
+2021-09-30 14:48:48.136 INFO [main] [com.first_project.testcases.TC_Elements] - Clicked On Elements Tab..
+2021-09-30 14:48:48.319 INFO [main] [com.first_project.testcases.TC_Elements] - Clicked On Textbox Tab..
+2021-09-30 14:48:48.456 ERROR [main] [com.first_project.testcases.TC_Elements] - Entered UserName..
+2021-09-30 14:48:48.649 INFO [main] [com.first_project.testcases.TC_Elements] - Entered an email
+2021-09-30 14:48:48.815 INFO [main] [com.first_project.testcases.TC_Elements] - Entered Current Address
+2021-09-30 14:48:48.980 INFO [main] [com.first_project.testcases.TC_Elements] - Entered Permanent Address
+2021-09-30 14:48:49.093 INFO [main] [com.first_project.testcases.TC_Elements] - Clicked on Submit button
+2021-09-30 14:48:49.943 INFO [main] [com.first_project.testcases.TC_Elements] - Clicked On Elements Tab..
+2021-09-30 14:48:50.203 INFO [main] [com.first_project.testcases.TC_Elements] - clicked on checkBox tab
+2021-09-30 14:48:50.298 INFO [main] [com.first_project.testcases.TC_Elements] - home option has been checked
+2021-09-30 14:48:55.264 INFO [main] [com.first_project.testcases.TC_Elements] - Home Option has been expanded
+2021-09-30 14:48:59.421 INFO [main] [com.first_project.testcases.TC_Elements] - Clicked on Plus Icon to Expand Home Option
+2021-09-30 14:49:03.526 INFO [main] [com.first_project.testcases.TC_Elements] - Clicked on Minus Icon to Collapse Home Option Tree
+2021-09-30 14:49:08.283 INFO [main] [com.first_project.testcases.TC_Elements] - Clicked On Elements Tab..
+2021-09-30 14:49:08.423 INFO [main] [com.first_project.testcases.TC_Elements] - Radio Button Tab is selected
+2021-09-30 14:49:08.550 INFO [main] [com.first_project.testcases.TC_Elements] - Yes Option has been selected
+2021-09-30 14:49:08.635 INFO [main] [com.first_project.testcases.TC_Elements] - Got the selected Radio Button Text: ## You have selected Yes
+2021-09-30 14:49:19.448 INFO [main] [com.first_project.testcases.TC_BookStoreLogin] - Entered Login Password on login button...
+2021-09-30 14:49:19.518 INFO [main] [com.first_project.testcases.TC_BookStoreLogin] - Clicked on login button...
+2021-09-30 14:49:31.591 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - clicked on book store application Tab
+2021-09-30 14:49:31.659 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - clicked on book store sub Tab
+2021-09-30 14:49:31.795 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - 
+2021-09-30 14:49:31.813 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Git Pocket Guide
+Richard E. Silverman
+O'Reilly Media
+2021-09-30 14:49:31.832 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Learning JavaScript Design Patterns
+Addy Osmani
+O'Reilly Media
+2021-09-30 14:49:31.851 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Designing Evolvable Web APIs with ASP.NET
+Glenn Block et al.
+O'Reilly Media
+2021-09-30 14:49:31.868 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Speaking JavaScript
+Axel Rauschmayer
+O'Reilly Media
+2021-09-30 14:49:31.888 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##You Don't Know JS
+Kyle Simpson
+O'Reilly Media
+2021-09-30 14:49:31.907 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Programming JavaScript Applications
+Eric Elliott
+O'Reilly Media
+2021-09-30 14:49:31.929 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Eloquent JavaScript, Second Edition
+Marijn Haverbeke
+No Starch Press
+2021-09-30 14:49:31.951 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##Understanding ECMAScript 6
+Nicholas C. Zakas
+No Starch Press
+2021-09-30 14:49:31.972 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##    
+2021-09-30 14:49:31.990 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - Record##    
+2021-09-30 14:49:31.990 INFO [main] [com.first_project.testcases.TC_BookStoreSummary] - All rows are displayed..
